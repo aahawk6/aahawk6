@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Aaron]
+# 👋 Hi, I'm Aaron
 
 **DataOps Manager @ Meta** · Computer Vision · ML Infrastructure · Open Source
 
