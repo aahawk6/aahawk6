@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Aaron]
 
 **DataOps Manager @ Meta** · Computer Vision · ML Infrastructure · Open Source
 
@@ -44,7 +44,7 @@ Data-as-a-service landing page for Provenance — B2B lead gen with integrated a
 
 ## 📬 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) <!-- Replace with your actual LinkedIn URL -->
+- 💼 [LinkedIn](www.linkedin.com/in/eehawkinsaa) <!-- Replace with your actual LinkedIn URL -->
 - 💻 Open to collaborating on computer vision and DataOps open-source projects
 
 ---
