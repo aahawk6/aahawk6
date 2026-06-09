@@ -2,7 +2,7 @@
 
 **DataOps Manager @ Meta** · Computer Vision · ML Infrastructure · Open Source
 
-I build the pipelines, tooling, and infrastructure that power AI at scale. My focus is computer vision — from raw data ingestion to production-ready models. I'm passionate about closing the gap between data engineering and applied ML, and I share that work openly here.
+I work with the pipelines, tooling, and infrastructure that power AI at scale. My focus is Physical AI — from raw data ingestion to production-ready models. I'm passionate about closing the gap between data engineering and applied ML, and I share that work openly here. As I create something useful in my work I hope to trace it here also.
 
 ---
 
