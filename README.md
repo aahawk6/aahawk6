@@ -4,13 +4,14 @@
 
 I work with the pipelines, tooling, and infrastructure that power AI at scale. My focus is Physical AI — from raw data ingestion to production-ready models. I'm passionate about closing the gap between data engineering and applied ML, and I share that work openly here. As I create something useful in my work I hope to trace it here also.
 
+https://aahawk6.github.io
 ---
 
 ## 🔭 What I'm working on
 
-- Exploring agentic data pipelines and their intersection with vision foundation models
+- Exploring agentic data pipelines and their intersection with vision foundation models for operations
 - Building open-source tooling that makes CV data ops faster and more reproducible
-- Sharing practical tutorials on DataOps patterns for ML teams
+- Sharing practical thoughts on DataOps patterns for Research teams.
 
 ---
 
